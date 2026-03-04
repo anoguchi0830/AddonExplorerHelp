@@ -13,3 +13,5 @@ Key capabilities include:
 • Lightweight panel interface designed for quick discovery
 
 Express Helper is designed to complement the Adobe Express ecosystem by making it easier for users to explore available add-ons in their preferred language.
+
+Please create issues if you have any problems.
